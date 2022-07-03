@@ -1,4 +1,4 @@
-### Hi 👋, I`m Om prakash
+<h1 align="center">Hi 👋, I'm om prakash</h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -58,15 +58,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kom50&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kom50&show_icons=true&locale=en" alt="kom50" /></p>
+
 ### :writing_hand: Blog Posts :
  - https://clanguage0.blogspot.com/
-  
-### Pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kom50&repo=web-om)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kom50&repo=photo-puzzle-vue)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kom50&repo=Contacts-app-project-in-MERN)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kom50&repo=snakegame.github.io)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kom50&repo=tictactoegame.github.io)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kom50&repo=Music-player.github-io)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kom50&repo=weather_app)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kom50&repo=camera-app)](https://github.com/anuraghazra/github-readme-stats)
