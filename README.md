@@ -63,7 +63,6 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   
 ### Pinned
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kom50&repo=web-om)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kom50&repo=web-om)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kom50&repo=photo-puzzle-vue)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kom50&repo=Contacts-app-project-in-MERN)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kom50&repo=snakegame.github.io)](https://github.com/anuraghazra/github-readme-stats)
