@@ -28,10 +28,10 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :seedling: Exploring coding problems.
 
-- :seedling: I'm currently learning MERN stack.
+- :seedling: I'm currently learning MERN and MEVN stack.
 
 - :mailbox: You can contact me at omprakashkartik82280@gmail.com
-- 👨‍💻 All of my projects are available at https://my-web-om.web.app/
+- 👨‍💻 All of my projects are available at https://kom50.github.io/web-om/#/
 
 <hr/>
 
