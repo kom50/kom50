@@ -22,7 +22,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from :heart: Bihar, India.
 
 - :telescope: I’m working as a frontend developer for building web applications.
 
@@ -31,7 +31,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - :seedling: I'm currently learning MERN and MEVN stack.
 
 - :mailbox: You can contact me at omprakashkartik82280@gmail.com
-- 👨‍💻 All of my projects are available at https://kom50.github.io/web-om/#/
+- 👨‍💻 All of my projects are available at https://om-portfolio-wep.netlify.app/#/
 
 <hr/>
 
