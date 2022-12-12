@@ -53,13 +53,6 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 </div>
 <hr/>
 
-### :fire: My Stats : 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kom50&theme=vue&background=F2FFF9E6)](https://git.io/streak-stats)
- 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kom50&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kom50&show_icons=true&locale=en" alt="kom50" /></p>
 
 ### :writing_hand: Blog Posts :
  - https://clanguage0.blogspot.com/
