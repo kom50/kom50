@@ -38,7 +38,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ### :hammer_and_wrench: Languages and Tools : 
 <div>
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,express,react,materialui,redux,vue,nuxtjs,firebase,supabase,netlify,git,github,sass,tailwind,postman,vscode,vite,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,materialui,redux,vue,nuxtjs,sass,tailwind,nodejs,express,mongodb,firebase,supabase,git,github,postman,vscode,vite,netlify,vercel,py,java)](https://skillicons.dev)
 
   
 </div>
