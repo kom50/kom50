@@ -1,0 +1,284 @@
+[
+    {
+        "title": "Music Player App in HTML",
+        "live_link": "https://kom50.github.io/music-player1.github-io/",
+        "source_code_link": "https://github.com/kom50/music-player1.github-io",
+        "description": "This is simple Music Player App and this project is created with the help of HTML, CSS and JavaScript.",
+        "tech_stuff": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "features": [
+            "Sleep Mode",
+            "Playlist viewer"
+        ]
+    },
+    {
+        "title": "Snake Game in HTML",
+        "live_link": "https://kom50.github.io/snakegame.github.io/",
+        "source_code_link": "https://github.com/kom50/snakegame.github.io",
+        "description": "This project is created with the help of HTML, SVG, CSS and JavaScript.",
+        "tech_stuff": [
+            "HTML",
+            "SVG",
+            "CSS",
+            "JavaScript"
+        ],
+        "features": [
+            "With Speed control"
+        ]
+    },
+    {
+        "title": "Photo Puzzle Game in HTML",
+        "source_code_link": "https://github.com/kom50/Photo-puzzle-game.github.io",
+        "live_link": "https://kom50.github.io/Photo-puzzle-game.github.io/",
+        "description": "This project is created with the help of HTML, CSS and JavaScript.",
+        "tech_stuff": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "features": []
+    },
+    {
+        "title": "Number Puzzle Game in HTML",
+        "source_code_link": "https://github.com/kom50/number-puzzle.github.io",
+        "live_link": " https://kom50.github.io/number-puzzle.github.io/",
+        "description": "This project is created with the help of HTML, CSS and JavaScript.",
+        "tech_stuff": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "features": [
+            "Infinite Level"
+        ]
+    },
+    {
+        "title": "Tic Tac Toe Game in HTML",
+        "live_link": " https://kom50.github.io/tictactoegame.github.io/",
+        "source_code_link": "https://github.com/kom50/tictactoegame.github.io",
+        "description": "This project is created with the help of HTML, CSS and JavaScript.",
+        "tech_stuff": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "features": [
+            "Play with Computer",
+            "Play with Friends"
+        ]
+    },
+    {
+        "title": "Covid 19 Tracker App in HTML",
+        "live_link": "https://kom50.github.io/covid19App.github.io/",
+        "source_code_link": "hhttps://github.com/kom50/covid19App.github.io",
+        "description": "This Project is create with the help of HTML, CSS and JavaScript.",
+        "tech_stuff": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "jQuery"
+        ],
+        "features": [
+            "Show Covid 19 cases using country name"
+        ]
+    },
+    {
+        "title": "Calculator in React Js",
+        "live_link": "https://kom50.github.io/Calculator-in-React/",
+        "source_code_link": "https://github.com/kom50/Calculator-in-React/tree/master",
+        "description": "This Project is created with the help of HTML, CSS and React Js.",
+        "tech_stuff": [
+            "HTML",
+            "CSS",
+            "React JS"
+        ],
+        "features": []
+    },
+    {
+        "title": "Todo List in React Js",
+        "live_link": "https://kom50.github.io/TodoApp/",
+        "source_code_link": "https://github.com/kom50/TodoApp",
+        "description": "This Project is created with the help of HTML, CSS and React Js.",
+        "tech_stuff": [
+            "HTML",
+            "CSS",
+            "React JS"
+        ],
+        "features": []
+    },
+    {
+        "title": "Portfolio website in React Js",
+        "live_link": "https://my-web-om.web.app/",
+        "source_code_link": "https://github.com/kom50/web-om",
+        "description": "This Project is created with the help of HTML, CSS and React Js.",
+        "tech_stuff": [
+            "HTML",
+            "CSS",
+            "React JS"
+        ],
+        "features": []
+    },
+    {
+        "title": "Social Diary in React Js",
+        "live_link": "https://social-diary-79403.web.app/",
+        "source_code_link": "https://github.com/kom50/social-diary-in-react-js",
+        "description": "This Project is created with the help of HTML, CSS and React Js.",
+        "tech_stuff": [
+            "HTML",
+            "CSS",
+            "React JS",
+            "Axios",
+            "Firebase"
+        ],
+        "features": [
+            "Create Account",
+            "Login features",
+            "Share your story with others",
+            "Create story",
+            "Read story",
+            "Update story",
+            "Delete story"
+        ]
+    },
+    {
+        "title": "Weather App in React Js",
+        "live_link": "https://kom50.github.io/weather_app/",
+        "source_code_link": "https://github.com/kom50/weather_app",
+        "description": "This Project is created with the help of HTML, CSS and React Js.",
+        "tech_stuff": [
+            "HTML",
+            "CSS",
+            "React JS",
+            "Axios"
+        ],
+        "features": [
+            "Search Weather by city name"
+        ]
+    },
+    {
+        "title": "Contact List App in MERN Stack",
+        "live_link": "https://contacts-app3.herokuapp.com/",
+        "source_code_link": "https://github.com/kom50/Contacts-app-project-in-MERN",
+        "description": "This Project is created with the help of MERN Stack Concept.",
+        "tech_stuff": [
+            "HTML",
+            "CSS",
+            "React JS",
+            "React Router Dom",
+            "Axios",
+            "Node.js",
+            "ExpressJS",
+            "MongoDB"
+        ],
+        "features": [
+            "Create Account",
+            "Login features",
+            "Add contacts",
+            "Read contacts",
+            "Update contacts",
+            "Delete contacts"
+        ]
+    },
+    {
+        "title": "Simple Camera app in HTML",
+        "live_link": "https://kom50.github.io/camera-app/",
+        "source_code_link": "https://github.com/kom50/camera-app",
+        "description": "This web application is created using Typescript.",
+        "tech_stuff": [
+            "HTML",
+            "CSS",
+            "TypeScript"
+        ],
+        "features": [
+            "Change camera front to back",
+            "Take picture"
+        ]
+    },
+    {
+        "title": "Social diary app in Vue JS",
+        "live_link": "https://social-diary1.web.app/",
+        "source_code_link": "https://github.com/kom50/social-diary-vue",
+        "description": "This web application is created using VueJS.",
+        "tech_stuff": [
+            "HTML",
+            "CSS",
+            "Vue JS"
+        ],
+        "features": [
+            "Create Post",
+            "See all your post"
+        ]
+    },
+    {
+        "title": "Notepad Application in Java",
+        "live_link": "Not available",
+        "source_code_link": "https://github.com/kom50/Notepad-Project-in-Java",
+        "description": "This Application is same as MS Notepad. This project is created with the help of Java Swing and AWT.",
+        "tech_stuff": [
+            "Java",
+            "AWT",
+            "Swing"
+        ],
+        "features": [
+            "Create a Simple text file"
+        ]
+    },
+    {
+        "title": "Snake Game in Java",
+        "live_link": "Not available",
+        "source_code_link": "https://github.com/kom50/Snake-game-in-java/tree/main/Snake%20Game%20Project",
+        "description": "This project is created with the help of Java swing and AWT",
+        "tech_stuff": [
+            "Java",
+            "AWT",
+            "Swing",
+            "Serializable"
+        ],
+        "features": [
+            "With Game level",
+            "High score"
+        ]
+    },
+    {
+        "title": "Photo Puzzle Game in Java",
+        "live_link": "Not Available",
+        "source_code_link": "https:/https://github.com/kom50/Puzzle-Game-in-java",
+        "description": "This project is created with the help of Java Swing and AWT.",
+        "tech_stuff": [
+            "Java",
+            "AWT",
+            "Swing"
+        ],
+        "features": []
+    },
+    {
+        "title": "Number Puzzle in Java",
+        "live_link": "Not available",
+        "source_code_link": "https://github.com/kom50/Number-Puzzle-Game-in-Java",
+        "description": "This project is created with the help of Java Swing and AWT.",
+        "tech_stuff": [
+            "Java",
+            "AWT",
+            "Swing"
+        ],
+        "features": [
+            "Infinite level"
+        ]
+    },
+    {
+        "title": "Library Management System Project in Java",
+        "live_link": "Not available",
+        "source_code_link": "Not available",
+        "description": "This project is created with the help of Java Swing, AWT and JDBC.",
+        "tech_stuff": [
+            "Java",
+            "JDBC",
+            "AWT",
+            "Swing"
+        ],
+        "features": []
+    }
+]
