@@ -5,7 +5,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/om-prakash-kumar-23507020a/">
+  <a href="https://www.linkedin.com/in/om-prakash-sah">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/@ProgrammingOM">
@@ -20,38 +20,52 @@
 </div>
 <hr/>
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 
-I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from :heart: Bihar, India.
+I’m a passionate full-stack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from :heart: Muzaffarpur, Bihar, India.
 
-- :telescope: I’m working as a frontend developer for building web applications.
+- :seedling: Exploring **coding challenges** and solving real-world problems
 
-- :seedling: Exploring coding problems.
+- :seedling: Currently learning and building with **MERN** and **MEVN** stacks  
 
-- :seedling: I'm currently learning MERN and MEVN stack.
+- :mailbox: Reach me at: omprakashkartik82280@gmail.com
+- :writing_hand: [Blog Posts](https://clanguage0.blogspot.com/)
 
-- :mailbox: You can contact me at omprakashkartik82280@gmail.com
-- 👨‍💻 All of my projects are available at https://om-portfolio-wep.netlify.app/#/
+- 👨‍💻 Check out my projects: [My Portfolio](https://om-portfolio-wep.netlify.app/#/)
 
 <hr/>
 
 ### :hammer_and_wrench: Languages and Tools : 
 <div>
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,materialui,redux,vue,pinia,nuxtjs,sass,tailwind,nodejs,express,nest,mongodb,firebase,supabase,git,github,postman,vscode,vite,py,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,materialui,redux,nextjs,vue,pinia,nuxtjs,sass,tailwind,nodejs,npm,express,nest,redis,mongodb,firebase,supabase,git,github,vscode,vite,py,docker,nginx,postman,vitest)](https://skillicons.dev)
 
   
 </div>
 <hr/>
 
+---
 
+### 📈 GitHub Stats
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kom50&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kom50&theme=tokyonight" />
+</p>
 
-
-### :writing_hand: Blog Posts :
- - https://clanguage0.blogspot.com/
-
+---
 
 ### 🤟 (^_^)
 ```
  SELECT * FROM world WHERE "Someone" LIKE %You%
+```
+
+---
+
+### 🧠 Currently Learning
+
+- 🔹 Advanced backend with **NestJS** and **Mongoose**
+- 🔹 Performance optimization & scalable architecture
+- 🔹 Cloud deployment using **Render**, **Docker** and **AWS**
+
+---
