@@ -69,3 +69,6 @@ I’m a passionate full-stack web developer <img src="https://media.giphy.com/me
 - 🔹 Cloud deployment using **Render**, **Docker** and **AWS**
 
 ---
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/kom50?theme=dark&font=Coming%20Soon&ext=heatmap)
